@@ -1,0 +1,5 @@
+[huron]
+store = true
+heartbeat = "50ms"
+timeout = "200ms"
+listen = "node2:1337"

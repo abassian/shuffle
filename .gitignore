@@ -1,0 +1,10 @@
+.vscode
+build
+glide.lock
+vendor
+*debug.test*
+
+
+docs2
+README2.md
+rename_*
